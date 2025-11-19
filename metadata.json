@@ -1,0 +1,5 @@
+{
+  "name": "Fraud Detection AI",
+  "description": "ระบบตรวจจับการทุจริตจากไฟล์ CSV โดยใช้ Feature Engineering ร่วมกับ Google Gemini API เพื่อวิเคราะห์ความเสี่ยงและให้คะแนน (Fraud Score)",
+  "requestFramePermissions": []
+}
